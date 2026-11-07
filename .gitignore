@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+sources.json
+# 构建产物：运行 build.py 即生成本地 json / js，不入库
+web/starmap.json
+web/starmap.js
